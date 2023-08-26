@@ -3,13 +3,13 @@ nav {
     top: 0px;
     z-index: 1;
 
-    background-image: url(/images/Ellipse\ 2523.png), url(/images/Ellipse\ 2522.png);
+    background-image: url(images/Ellipse\ 2523), url(images/Ellipse\ 2522.png);
 }
 #home {
     background-color: #ffffff;
     width: 100vw;
     height: 100vh;
-    background-image: url(/images/Ellipse\ 2523.png), url(/images/Ellipse\ 2522.png);
+    background-image: url(images/Ellipse\ 2523.png), url(images/Ellipse\ 2522.png);
     background-size: cover;
 }
 
