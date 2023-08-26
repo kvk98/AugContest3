@@ -1,0 +1,136 @@
+nav {
+    position:sticky;
+    top: 0px;
+    z-index: 1;
+
+    background-image: url(/images/Ellipse\ 2523.png), url(/images/Ellipse\ 2522.png);
+}
+#home {
+    background-color: #ffffff;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/images/Ellipse\ 2523.png), url(/images/Ellipse\ 2522.png);
+    background-size: cover;
+}
+
+.button {
+    background-color: #f94a3d;
+    color: #ffffff;
+    border: opx;
+    border-radius: 15px;
+    width: 30%;
+    margin-left: 20px;
+}
+
+.vertical-line {
+    height: 20px;
+    border-left: 2px solid #f0f0f2;
+    margin: auto;
+}
+
+.search-div {
+    padding: 0px 12px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 12px;
+    background: rgb(248, 248, 248);
+    color: rgb(130, 130, 130);
+    width:
+}
+
+.search-div>input {
+    border: none;
+    background-color: transparent;
+}
+
+.page1-text {
+    margin-left: 7%;
+    width: 50%;
+}
+
+.para-1 {
+    display: inline;
+    color: #f94a3d;
+    background-color: #fdecec;
+
+}
+
+.card {
+    padding: 12px 12px;
+    text-align: center;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 12px;
+    background: white;
+    color: #222244;
+    width: 25%;
+}
+
+#about {
+    padding: 50px 50px;
+}
+
+.page2-text {
+    width: 15%;
+}
+
+.page3 {
+    color: #222244;
+    text-decoration: none;
+    font-size: large;
+    border-bottom: gray;
+    font-weight: 600;
+}
+
+.card1 {
+    padding: 12px 12px;
+    text-align: center;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 12px;
+    background: white;
+    color: #222244;
+    width: 50%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    background-color: #f8f8f8;
+    align-items: left;
+}
+
+.flex-container>div:first-child {
+    background-color: transparent;
+    width: 35%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 40px;
+    border-right: 2px solid #eaeaea;
+}
+
+
+.flex-container>div:last-child {
+    background-color: transparent;
+    width: 60%;
+    margin: 10px;
+    text-align: left;
+    line-height:75px;
+    font-size: 30px;
+    padding-left:5%;
+}
+.background{
+    background-image: url(/images/bottomgrp.png);
+    background-size: cover;
+    width: 900px;
+    height: 500px;
+}
+.page6 {
+    display: flex;
+    justify-content: space-around;
+}
+.pages6>div:first-child{
+    width: 200px;
+}
+.backimages {
+    background-image: url(/images/Ellipse\ 2523.png), url(/images/Ellipse\ 2522.png);;
+}
